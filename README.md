@@ -130,8 +130,7 @@ Meu interesse pela tecnologia surgiu durante o curso técnico de eletrônica, qu
     style="padding-right: 10px;"
     src="https://github-readme-stats.vercel.app/api?username=GabrielTeodoro2021&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
   />
-
-<img 
+  <img 
       align="left"
       alt="GitHub Stats"
       height="150"
