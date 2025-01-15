@@ -134,7 +134,7 @@ Meu interesse pela tecnologia surgiu durante o curso técnico de eletrônica, qu
 <img 
       align="left"
       alt="GitHub Stats"
-      height="180"
+      height="150"
       style="padding-right: 10px;"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielTeodoro2021&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
   />
