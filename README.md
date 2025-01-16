@@ -116,26 +116,3 @@ Meu interesse pela tecnologia surgiu durante o curso técnico de eletrônica, qu
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
 />
-
-<br/>
-<br/>
-
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left"
-    alt="GitHub Stats"
-    height="180"
-    style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api?username=GabrielTeodoro2021&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
-  />
-  <img 
-      align="left"
-      alt="GitHub Stats"
-      height="150"
-      style="padding-right: 10px;"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielTeodoro2021&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
-  />
-
-</p>
